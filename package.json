@@ -1,0 +1,19 @@
+{
+  "name": "gadash",
+  "version": "0.0.1",
+  "description": "My little Lodash",
+  "main": "gadash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielbibiano/gadash.git"
+  },
+  "author": "Gabriel Bibiano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielbibiano/gadash/issues"
+  },
+  "homepage": "https://github.com/gabrielbibiano/gadash#readme"
+}
